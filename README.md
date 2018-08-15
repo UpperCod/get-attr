@@ -1,4 +1,4 @@
-# getproperty
+# get-attr
 
 This small function allows to extract properties of objects and array
 
