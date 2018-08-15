@@ -1,6 +1,6 @@
 # get-attr
 
-This small function allows to extract properties of objects and array
+This small function allows to extract properties of objects and array, in **175B**
 
 
 ``` javascript
